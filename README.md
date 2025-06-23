@@ -54,7 +54,7 @@ A simple and efficient URL shortener service built with Go. This project allows 
 1. **Clone the repository:**
 
    ```fish
-   git clone <repo-url>
+   git clone https://github.com/oThinas/url-shortener
    cd url-shortener
    ```
 
